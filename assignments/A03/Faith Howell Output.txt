@@ -1,0 +1,41 @@
+Faith Howell
+
+Heap 0
+======================
+Stone sheep 247.649
+Toddy cat 155.031
+Black rhinoceros 215.435
+Glossy ibis 106.806
+Bear, american black 122.472
+
+Heap 1
+======================
+Red brocket 296.2
+Deer, savannah 260.071
+Nilgai 252.954
+Kirk's dik dik 253.287
+Grizzly bear 69.3862
+
+Heap 2
+======================
+Brown lemur 203.255
+Tree porcupine 168.327
+Wallaby, river 129.248
+Curve-billed thrasher 43.3397
+Galapagos mockingbird 31.09
+
+Heap 3
+======================
+Yellow baboon 260.711
+Godwit, hudsonian 227.338
+Seal, northern fur 46.1811
+Crow, american 86.2436
+Crested screamer 217.722
+
+Heap 4
+======================
+King vulture 107.54
+Hyrax 88.2248
+Blue waxbill 97.5182
+Kori bustard 74.1453
+Burmese brown mountain tortoise 0.01309
