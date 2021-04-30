@@ -19,5 +19,5 @@ This assignment is more about breaking the ice with github, with a little to do 
 
 ### Output Images
   >>
-  <img src="Screen Shot 2021-04-29 at 5.15.37 PM.png">
+
     <img src="Screen Shot 2021-04-29 at 5.35.17 PM.png">
