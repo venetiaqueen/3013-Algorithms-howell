@@ -19,6 +19,8 @@ that this is slow, and we plan on applying our "lookup" code to other backend da
 |  4  | [mygetch.hpp](https://github.com/venetiaqueen/3013-Algorithms-howell/blob/master/assignments/PO2/mygetch.hpp)     | Getch class    |
 |  5  | [animals.txt](https://github.com/venetiaqueen/3013-Algorithms-howell/blob/master/assignments/PO2/animal_names.txt) | Animals names |
 
-
+### Output Images
   >>
   <img src="Screen Shot 2021-04-29 at 4.22.46 PM.png">
+    <img src="Screen Shot 2021-04-29 at 4.23.07 PM.png">
+      <img src="Screen Shot 2021-04-29 at 4.23.35 PM.png">
