@@ -3,7 +3,7 @@
 
 |      #      | Folder Link  | Assignment Description                          |
 | :---------: | ------------ | ----------------------------------------------- |
-| [03](./A03) | [A03]        | [Banner Page]                                   |
+| [03](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03) | [A03](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03)        | [Banner Page](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A03)                                   |
 | [04](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) | [A04](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) | [Commenting C++ Code  ](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/AO4) |
 | [05](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05) | [A05](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05) | [Assignment 5 - Run Times](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/A05)     |
 | [06](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01) | [P01](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01) | [Resizing the Stack ](https://github.com/venetiaqueen/3013-Algorithms-howell/tree/master/assignments/P01)              |
